@@ -1,4 +1,4 @@
 # santoshtale
 This my first Git Repository
 <br>
-Author - Santosh Tale
+Author - Santosh (coder)
